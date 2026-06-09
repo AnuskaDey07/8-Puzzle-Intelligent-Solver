@@ -2,22 +2,6 @@
 
 An interactive full-stack web application designed to demonstrate, analyze, and visualize classical Artificial Intelligence search strategies using an 8-puzzle sliding grid. This platform transforms pathfinding algorithms from terminal output into a visual and interactive learning experience suitable for academic demonstrations and technical presentations.
 
----
-
-## Institutional Profile & Team
-
-**Institution:** Techno Main SaltLake  
-**Department:** CSE(DS)
-
-### Team Members
-
-- Anuska Dey (`13030523008`)
-- Avinanda Guchait (`13030523016`)
-- Ayush Kumar Shaw (`13030523018`)
-- Tapasi Garai (`13030523058`)
-
----
-
 ## Core Features
 
 ### Interactive Grid Workspace
